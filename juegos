@@ -1,0 +1,990 @@
+{
+  "type": "FeatureCollection",
+  "name": "GGVLC26 Venues",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3633436,
+          39.4945755,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre": "Ceremonia de inauguración",
+        "description": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gyker7ijXcU71YuCaVdx57-M-qrXOzvhdc628OO2B219cDcH0E9PcXp73RGicKEn9ZxVu9Masx7z8RhVHvnT9g2SPP3HfGOb6KHhnt-uZ9Pv-mKlzzoWrtvhXxJ1ZPa-8nmDjomi7lrBGNB46Y5ysDpNzOv_itA4ZBroBWVCdqHUnGeoiSNQJJZzFmr8qUD8Nu_s_LS9hrban_DHJPDr_0a0Az_lDbe-ZACCLCTUNQQlEQAR2JyOPE8EK8?authuser=0&fife=s16383\" height=\"200\" width=\"aua\" /><br><br>Estadi Ciutat de València <br>Tickets: https://tickelio.com/es/concieras/valencia/opening-gay-games-12-valencia-2026",
+        "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gyker7ijXcU71YuCaVdx57-M-qrXOzvhdc628OO2B219cDcH0E9PcXp73RGicKEn9ZxVu9Masx7z8RhVHvnT9g2SPP3HfGOb6KHhnt-uZ9Pv-mKlzzoWrtvhXxJ1ZPa-8nmDjomi7lrBGNB46Y5ysDpNzOv_itA4ZBroBWVCdqHUnGeoiSNQJJZzFmr8qUD8Nu_s_LS9hrban_DHJPDr_0a0Az_lDbe-ZACCLCTUNQQlEQAR2JyOPE8EK8?authuser=0&fife=s16383",
+        "styleUrl": "#icon-seq2-0-0-880E4F",
+        "Latitude": 39.4945755,
+        "Longitude": -0.3633436,
+        "Category": "Ceremonias y cultura",
+        "Fecha": "27 Junio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3660808,
+          39.4519227,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre": "Ceremonia de clausura",
+        "description": "Closing Ceremony & Official Party (both included in the accreditation).",
+        "styleUrl": "#icon-seq2-0-1-880E4F",
+        "Latitude": 39.4519227,
+        "Longitude": -0.3660808,
+        "Category": "Ceremonias y cultura",
+        "Fecha": "4 Julio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3559392,
+          39.458036,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre": "Festival coral",
+        "description": "Les Arts - Sala Martín i Soler",
+        "styleUrl": "#icon-seq2-0-2-880E4F",
+        "Latitude": 39.458036,
+        "Longitude": -0.3559392,
+        "Category": "Ceremonias y cultura",
+        "Fecha": "30 Junio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3652002,
+          39.4513686,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre": "Cheerleading",
+        "styleUrl": "#icon-seq2-0-3-880E4F-nodesc",
+        "Latitude": 39.4513686,
+        "Longitude": -0.3652002,
+        "Category": "Instalaciones deportivas",
+        "Fecha": "30 Junio, 1 Julio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3655012,
+          39.4732092,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre": "Carrera memorial arcoíris internacional",
+        "description": "Start and End: Pont de l'Exposició <br>4,2 km run along the riverbed<br>1 km walk",
+        "styleUrl": "#icon-seq2-0-4-880E4F",
+        "Latitude": 39.4732092,
+        "Longitude": -0.3655012,
+        "Category": "Ceremonias y cultura",
+        "Fecha": "27 Junio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3813323,
+          39.4696732,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre": "Aca conmemorativo",
+        "description": "@ MuVIM - Museu Valencià de la Il·lustració i la Modernitat<br>Wednesday 1 Julioy, 6.30 pm.",
+        "styleUrl": "#icon-seq2-0-5-880E4F",
+        "Latitude": 39.4696732,
+        "Longitude": -0.3813323,
+        "Category": "Instalaciones deportivas",
+        "Fecha": "1 Julio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.360128,
+          39.466272,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre": "Festival de bandas",
+        "description": "2nd option for choral festival<br>Possible an extra classical concert and event for GGVLC26",
+        "styleUrl": "#icon-seq2-0-6-880E4F",
+        "Latitude": 39.466272,
+        "Longitude": -0.360128,
+        "Category": "Ceremonias y cultura",
+        "Fecha": "2 Julio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3781626,
+          39.458894,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre": "Queer en movimiento",
+        "description": "Centre Cultural Nau 3 Ribes",
+        "styleUrl": "#icon-seq2-0-7-880E4F",
+        "Latitude": 39.458894,
+        "Longitude": -0.3781626,
+        "Category": "Instalaciones deportivas",
+        "Fecha": "30 Junio a 3 Julio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3738419,
+          39.475975,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre": "Arte moderno queer valenciano (exposición)",
+        "description": "Museu de la Ciutat - Palau del Marqués de Campo",
+        "styleUrl": "#icon-seq2-0-8-880E4F",
+        "Latitude": 39.475975,
+        "Longitude": -0.3738419,
+        "Category": "Ceremonias y cultura",
+        "Fecha": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3943845,
+          39.475578,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre": "Centro de acreditaciones",
+        "description": "Complex Esportiu Cultural Petxina - Hall of Entrance a the Library<br>Opened as from Wednesday 24 Junioe until 3 Julioy.",
+        "styleUrl": "#icon-seq2-0-9-880E4F",
+        "Latitude": 39.475578,
+        "Longitude": -0.3943845,
+        "Category": "Instalaciones deportivas",
+        "Fecha": "Gay Games XII València 2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3943706,
+          39.4752666,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre": "Exposición del quilt conmemorativo",
+        "description": "Main Hall - Accreditation Centre",
+        "styleUrl": "#icon-seq2-0-10-880E4F",
+        "Latitude": 39.4752666,
+        "Longitude": -0.3943706,
+        "Category": "Ceremonias y cultura",
+        "Fecha": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3950978,
+          39.4757287,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre": "Punto de reunión",
+        "description": "Pg. de la Petxina 42 - Túria Gardens (old riverbed)",
+        "styleUrl": "#icon-seq2-0-11-880E4F",
+        "Latitude": 39.4757287,
+        "Longitude": -0.3950978,
+        "Category": "Instalaciones deportivas",
+        "Fecha": "Gay Games XII València 2026 (28Junio>4Julio)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3948723,
+          39.4758194,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre": "Mini Ball",
+        "description": "@ The Meeting Point<br>Free Admission, strike a pose!",
+        "styleUrl": "#icon-seq2-0-12-880E4F",
+        "Latitude": 39.4758194,
+        "Longitude": -0.3948723,
+        "Category": "Instalaciones deportivas",
+        "Fecha": "28 Junio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4271893,
+          39.5007046,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre": "Tenis de mesa, lucha y artes marciales",
+        "styleUrl": "#icon-seq2-1-0-F9A825-labelson-nodesc",
+        "Latitude": 39.5007046,
+        "Longitude": -0.4271893,
+        "Category": "Instalaciones deportivas",
+        "Fecha": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3652002,
+          39.4513686,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre": "Baloncesto, Cheer",
+        "styleUrl": "#icon-seq2-1-1-F9A825-labelson-nodesc",
+        "Latitude": 39.4513686,
+        "Longitude": -0.3652002,
+        "Category": "Instalaciones deportivas",
+        "Fecha": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3370044,
+          39.475,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre": "Campo de hockey",
+        "styleUrl": "#icon-seq2-1-2-F9A825-labelson-nodesc",
+        "Latitude": 39.475,
+        "Longitude": -0.3370044,
+        "Category": "Instalaciones deportivas",
+        "Fecha": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3544959,
+          39.4810535,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre": "Esgrima",
+        "styleUrl": "#icon-seq2-1-3-F9A825-labelson-nodesc",
+        "Latitude": 39.4810535,
+        "Longitude": -0.3544959,
+        "Category": "Instalaciones deportivas",
+        "Fecha": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3950207,
+          39.4976311,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre": "Boleibol 1",
+        "description": "One category, the whole week",
+        "styleUrl": "#icon-seq2-1-4-F9A825-labelson",
+        "Latitude": 39.4976311,
+        "Longitude": -0.3950207,
+        "Category": "Instalaciones deportivas",
+        "Fecha": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3348359,
+          39.4661273,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre": "Boleibol 2, squash, gimnasia artística",
+        "styleUrl": "#icon-seq2-1-5-F9A825-labelson-nodesc",
+        "Latitude": 39.4661273,
+        "Longitude": -0.3348359,
+        "Category": "Instalaciones deportivas",
+        "Fecha": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3262927,
+          39.4830571,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre": "Boleibol 3",
+        "styleUrl": "#icon-seq2-1-6-F9A825-labelson-nodesc",
+        "Latitude": 39.4830571,
+        "Longitude": -0.3262927,
+        "Category": "Instalaciones deportivas",
+        "Fecha": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3995191,
+          39.4706617,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre": "Natación artística, waterpolo, voleibol 4",
+        "styleUrl": "#icon-seq2-1-7-F9A825-labelson-nodesc",
+        "Latitude": 39.4706617,
+        "Longitude": -0.3995191,
+        "Category": "Instalaciones deportivas",
+        "Fecha": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3965923,
+          39.4656742,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre": "Natación",
+        "styleUrl": "#icon-seq2-1-8-F9A825-labelson-nodesc",
+        "Latitude": 39.4656742,
+        "Longitude": -0.3965923,
+        "Category": "Instalaciones deportivas",
+        "Fecha": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3236804,
+          39.4659652,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre": "Aguas abiertas",
+        "styleUrl": "#icon-seq2-1-9-F9A825-labelson-nodesc",
+        "Latitude": 39.4659652,
+        "Longitude": -0.3236804,
+        "Category": "Instalaciones deportivas",
+        "Fecha": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3316534,
+          39.4501554,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre": "Colpbol, Dodgeball",
+        "styleUrl": "#icon-seq2-1-10-F9A825-labelson-nodesc",
+        "Latitude": 39.4501554,
+        "Longitude": -0.3316534,
+        "Category": "Instalaciones deportivas",
+        "Fecha": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.39313,
+          39.47721,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre": "Atletismo, salida de 5 y 10 km, medio maratón y maratón",
+        "styleUrl": "#icon-seq2-1-11-F9A825-labelson-nodesc",
+        "Latitude": 39.47721,
+        "Longitude": -0.39313,
+        "Category": "Instalaciones deportivas",
+        "Fecha": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3629094,
+          39.4508249,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre": "Rugby",
+        "styleUrl": "#icon-seq2-1-12-F9A825-labelson-nodesc",
+        "Latitude": 39.4508249,
+        "Longitude": -0.3629094,
+        "Category": "Instalaciones deportivas",
+        "Fecha": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3240481,
+          39.4734765,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre": "Boleibol playa",
+        "styleUrl": "#icon-seq2-1-13-F9A825-labelson-nodesc",
+        "Latitude": 39.4734765,
+        "Longitude": -0.3240481,
+        "Category": "Instalaciones deportivas",
+        "Fecha": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.441818,
+          39.530291,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre": "Bolos",
+        "styleUrl": "#icon-seq2-1-14-F9A825-labelson-nodesc",
+        "Latitude": 39.530291,
+        "Longitude": -0.441818,
+        "Category": "Instalaciones deportivas",
+        "Fecha": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.393788,
+          39.4757916,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre": "Ajedrez, bádminton",
+        "styleUrl": "#icon-seq2-1-15-F9A825-labelson-nodesc",
+        "Latitude": 39.4757916,
+        "Longitude": -0.393788,
+        "Category": "Instalaciones deportivas",
+        "Fecha": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3298913,
+          39.4614612,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre": "Vela, Triatlón, Drangon boat",
+        "styleUrl": "#icon-seq2-1-16-F9A825-labelson-nodesc",
+        "Latitude": 39.4614612,
+        "Longitude": -0.3298913,
+        "Category": "Instalaciones deportivas",
+        "Fecha": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4919104,
+          39.4727058,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre": "Patinaje artístico",
+        "styleUrl": "#icon-seq2-1-17-F9A825-labelson-nodesc",
+        "Latitude": 39.4727058,
+        "Longitude": -0.4919104,
+        "Category": "Instalaciones deportivas",
+        "Fecha": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3744832,
+          39.4805804,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre": "Fútbol 1",
+        "styleUrl": "#icon-seq2-1-18-F9A825-labelson-nodesc",
+        "Latitude": 39.4805804,
+        "Longitude": -0.3744832,
+        "Category": "Instalaciones deportivas",
+        "Fecha": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3669115,
+          39.4730704,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre": "Fútbol 2",
+        "styleUrl": "#icon-seq2-1-19-F9A825-labelson-nodesc",
+        "Latitude": 39.4730704,
+        "Longitude": -0.3669115,
+        "Category": "Instalaciones deportivas",
+        "Fecha": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3996022,
+          39.4752107,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre": "Fútbol 3",
+        "styleUrl": "#icon-seq2-1-20-F9A825-labelson-nodesc",
+        "Latitude": 39.4752107,
+        "Longitude": -0.3996022,
+        "Category": "Instalaciones deportivas",
+        "Fecha": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3819446,
+          39.488332,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre": "Fútbol 4",
+        "styleUrl": "#icon-seq2-1-21-F9A825-labelson-nodesc",
+        "Latitude": 39.488332,
+        "Longitude": -0.3819446,
+        "Category": "Instalaciones deportivas",
+        "Fecha": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3019142,
+          39.3207526,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre": "Golf",
+        "styleUrl": "#icon-seq2-1-22-F9A825-labelson-nodesc",
+        "Latitude": 39.3207526,
+        "Longitude": -0.3019142,
+        "Category": "Instalaciones deportivas",
+        "Fecha": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3660431,
+          39.4516754,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre": "Baile deportivo",
+        "styleUrl": "#icon-seq2-1-23-F9A825-labelson-nodesc",
+        "Latitude": 39.4516754,
+        "Longitude": -0.3660431,
+        "Category": "Instalaciones deportivas",
+        "Fecha": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3901176,
+          39.4132734,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre": "Padel",
+        "styleUrl": "#icon-seq2-1-24-F9A825-labelson-nodesc",
+        "Latitude": 39.4132734,
+        "Longitude": -0.3901176,
+        "Category": "Instalaciones deportivas",
+        "Fecha": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3398785,
+          39.4616581,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre": "Levantamiento de pesas",
+        "styleUrl": "#icon-seq2-1-25-F9A825-labelson-nodesc",
+        "Latitude": 39.4616581,
+        "Longitude": -0.3398785,
+        "Category": "Instalaciones deportivas",
+        "Fecha": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3780116,
+          39.4822266,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre": "Softball",
+        "styleUrl": "#icon-seq2-1-26-F9A825-labelson-nodesc",
+        "Latitude": 39.4822266,
+        "Longitude": -0.3780116,
+        "Category": "Instalaciones deportivas",
+        "Fecha": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3554929,
+          39.4636601,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre": "Tenis 1",
+        "styleUrl": "#icon-seq2-1-27-F9A825-labelson-nodesc",
+        "Latitude": 39.4636601,
+        "Longitude": -0.3554929,
+        "Category": "Instalaciones deportivas",
+        "Fecha": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3644563,
+          39.4841616,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre": "Tenis 2",
+        "styleUrl": "#icon-seq2-1-28-F9A825-labelson-nodesc",
+        "Latitude": 39.4841616,
+        "Longitude": -0.3644563,
+        "Category": "Instalaciones deportivas",
+        "Fecha": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3297756,
+          39.4801408,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre": "Tenis 3",
+        "styleUrl": "#icon-seq2-1-29-F9A825-labelson-nodesc",
+        "Latitude": 39.4801408,
+        "Longitude": -0.3297756,
+        "Category": "Instalaciones deportivas",
+        "Fecha": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4253372,
+          39.5469707,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre": "Tenis 4",
+        "styleUrl": "#icon-seq2-1-30-F9A825-labelson-nodesc",
+        "Latitude": 39.5469707,
+        "Longitude": -0.4253372,
+        "Category": "Instalaciones deportivas",
+        "Fecha": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4009206,
+          39.497565,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre": "Petanca",
+        "styleUrl": "#icon-seq2-1-31-F9A825-labelson-nodesc",
+        "Latitude": 39.497565,
+        "Longitude": -0.4009206,
+        "Category": "Instalaciones deportivas",
+        "Fecha": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3412779,
+          39.4792736,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre": "Baloncesto 1",
+        "styleUrl": "#icon-seq2-1-32-F9A825-labelson-nodesc",
+        "Latitude": 39.4792736,
+        "Longitude": -0.3412779,
+        "Category": "Instalaciones deportivas",
+        "Fecha": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3585851,
+          39.4795039,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre": "Baloncesto 2",
+        "styleUrl": "#icon-seq2-1-33-F9A825-labelson-nodesc",
+        "Latitude": 39.4795039,
+        "Longitude": -0.3585851,
+        "Category": "Instalaciones deportivas",
+        "Fecha": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4087299,
+          39.4587399,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre": "Cross Training",
+        "styleUrl": "#icon-seq2-1-34-F9A825-labelson-nodesc",
+        "Latitude": 39.4587399,
+        "Longitude": -0.4087299,
+        "Category": "Instalaciones deportivas",
+        "Fecha": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4078781,
+          39.4653974,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre": "Badminan 1",
+        "styleUrl": "#icon-seq2-1-35-F9A825-labelson-nodesc",
+        "Latitude": 39.4653974,
+        "Longitude": -0.4078781,
+        "Category": "Instalaciones deportivas",
+        "Fecha": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3676556,
+          39.484329,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre": "Buceo",
+        "styleUrl": "#icon-seq2-1-36-F9A825-labelson-nodesc",
+        "Latitude": 39.484329,
+        "Longitude": -0.3676556,
+        "Category": "Instalaciones deportivas",
+        "Fecha": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4265547,
+          39.504122,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre": "Deportes",
+        "description": "Own València at Fira València",
+        "styleUrl": "#icon-seq2-1-37-F9A825-labelson",
+        "Latitude": 39.504122,
+        "Longitude": -0.4265547,
+        "Category": "Instalaciones deportivas",
+        "Fecha": ""
+      }
+    }
+  ]
+}
